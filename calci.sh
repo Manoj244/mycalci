@@ -1,4 +1,5 @@
 x=a+b
 y=a-b
 z=a*b
-new line addition
+m=r/g
+y=q%r
